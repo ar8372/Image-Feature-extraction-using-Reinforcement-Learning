@@ -1,7 +1,7 @@
-# EV-Enrouting
-<h3>Find optimal path for electric vehicle using spatial information.</h3>
+# Image Feature Extraction
+<h3>Image-Feature-extraction-using-Reinforcement-Learning.</h3>
 
-<h2>Preprocessing :-</h1>
+<h2>Demo :-</h1>
 <p></p>
 <img src="resources/demo.gif" />
 
