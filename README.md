@@ -3,12 +3,12 @@
 
 **Our algorithm converts an `image dataset` into `tabular dataset` by extracting features of image using reinforcement learning.**
 <h2>Demo :-</h1>
-<h4>Input:</h4>
+Input:
 <p>
     <img src="resources/2.png" width="500" height="200" />
 </p>
-<h4>Output:</h4>
-<h2>→ -169.0, -148.0, -153.0, -171.0</h2>
+
+Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
 
 
 <p></p>
