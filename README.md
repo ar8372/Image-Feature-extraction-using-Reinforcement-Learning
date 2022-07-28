@@ -1,7 +1,7 @@
 # Image Feature Extraction
 <h3>Image-Feature-extraction-using-Reinforcement-Learning.</h3>
 
-**Our algorithm converts an `image dataset` into `tabular dataset` by extracting features of image using reinforcement leanring.**
+**Our algorithm converts an `image dataset` into `tabular dataset` by extracting features of image using reinforcement learning.**
 <h2>Demo :-</h1>
 <p>
     <img src="resources/2.png" width="500" height="200" />
