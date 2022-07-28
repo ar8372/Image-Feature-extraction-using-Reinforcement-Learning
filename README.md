@@ -23,5 +23,5 @@ Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
  * Assign pixels to grids
  * Assign reward to each state
  * Find center of figure
- * Calculate return and using it extract features
+ * Calculate return and using it to extract features
  * At the end we get 4 features corresponding to each image
