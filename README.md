@@ -6,7 +6,11 @@
 <p></p>
 <img src="resources/demo.gif" />
 
-## Proceidure: 
- * Finding Best Route
- * Finding Optimal Charging Station Placement Location
- * Dealing with Overhead on Charging Stations
+## Procedure: 
+ * Calculate transition matrix of an Image
+ * Preprocess it to reduce more computation
+ * Assign pixels to grids
+ * Assign reward to each state
+ * Find center of figure
+ * Calculate features
+ * At the end we get 4 features corresponding to each image
