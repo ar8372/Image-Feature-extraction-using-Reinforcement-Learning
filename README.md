@@ -18,5 +18,5 @@
  * Assign pixels to grids
  * Assign reward to each state
  * Find center of figure
- * Calculate features
+ * Calculate return and using it extract features
  * At the end we get 4 features corresponding to each image
