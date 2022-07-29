@@ -18,8 +18,8 @@ Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
 <img src="resources/demo.gif" />
 
 ## Procedure: 
- * Calculate transition matrix of an Image
- * Preprocess it to reduce computation
+ * Preprocess image to reduce computation
+ * Calculate transition matrix of the preprocessed Image
  * Assign pixels to grids
  * Assign reward to each state
  * Find optimal point of the figure
