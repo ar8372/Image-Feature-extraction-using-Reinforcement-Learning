@@ -17,7 +17,7 @@ Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
 <p></p>
 <img src="resources/demo.gif" />
 
-## Procedure: 
+## Algorithm [approach]: 
  * Preprocess image to reduce computation
  * Calculate transition matrix of the preprocessed Image
  * Assign pixels to grids
