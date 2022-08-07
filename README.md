@@ -26,3 +26,5 @@ Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
  * Calculate return 
  * Use it to extract features
  * At the end we get a set of 4 features corresponding to each image
+
+Notebook link: https://www.kaggle.com/raj401/image-feature-extraction-using-rl
