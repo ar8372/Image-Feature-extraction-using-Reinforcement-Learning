@@ -29,8 +29,8 @@ Output: `-169.0` , `-148.0`, `-153.0`, `-171.0`
 
 Inference Notebook link: https://www.kaggle.com/raj401/image-feature-extraction-using-rl
 ## Theory
-<p></p>
-<img src="resources/rewards.png" />
-<p></p>
-<img src="resources/returns.png" />
+rewards             |  returns
+:-------------------------:|:-------------------------:
+![](resources/rewards.png)  |  ![](resources/returns.png)
+
 Theory Notebook link: https://colab.research.google.com/drive/1ttKeYIf_TUjrm9HPu8U5_PRI2A7Vi6s9?usp=sharing
